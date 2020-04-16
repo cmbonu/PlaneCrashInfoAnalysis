@@ -5,6 +5,7 @@ Usage:
 
 #### Web Scrapping
 `python aircrashwebscrapper.py`
+
 The scrapped data is saved in crash_data.data
 
 #### View Analysis notebook
@@ -12,6 +13,7 @@ AirCrashDataAnalysis.ipynb is the analysis notebook
 
 #### Generate slide deck from notebook (requirs plotly.js to generate successfully)
 `jupyter nbconvert AirCrashDataAnalysis.ipynb --to slides`
+
 Generates AirCrashDataAnalysis.slides.html
 
 #### URL
